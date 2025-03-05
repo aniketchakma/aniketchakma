@@ -20,9 +20,22 @@
 
 ---
 
+### 🌟 Visitor Count  
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anikchakma.anikchakma" alt="visitor badge"/>
+</p>
+
+---
+
 ### 🛠️ Tech Stack  
-#### **Languages & Frameworks**  
+
+#### **Programming & Scripting**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### **Machine Learning & AI**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -50,16 +63,30 @@
 
 ---
 
-### 🌟 Featured Projects  
+### 📌 GitHub Contributions  
 
-🚀 **[AI-Based Chatbot](https://github.com/anikchakma/AI-Chatbot)**  
-A chatbot powered by **NLP and Deep Learning**, capable of human-like conversations.  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anikchakma&theme=react-dark" width="800px"/>
+</p>
 
-🧠 **[Neural Style Transfer](https://github.com/anikchakma/Neural-Style-Transfer)**  
-A **Deep Learning** project that applies artistic styles to images using **CNNs**.  
+---
 
-🎯 **[Machine Learning Model Deployment](https://github.com/anikchakma/ML-Model-Deployment)**  
-Deploying **ML models** using **Flask & Docker** for production-ready AI applications.  
+### 🚀 Featured Projects  
+
+| Project | Description |
+|---------|------------|
+| [AI-Based Chatbot](https://github.com/anikchakma/AI-Chatbot) | A chatbot powered by **NLP and Deep Learning**, capable of human-like conversations. |
+| [Neural Style Transfer](https://github.com/anikchakma/Neural-Style-Transfer) | A **Deep Learning** project that applies artistic styles to images using **CNNs**. |
+| [Machine Learning Model Deployment](https://github.com/anikchakma/ML-Model-Deployment) | Deploying **ML models** using **Flask & Docker** for production-ready AI applications. |
+
+---
+
+### 📝 Latest Blog Posts  
+<!-- BLOG-POST-LIST:START -->
+- [Understanding Neural Networks](https://example.com)
+- [How to Train a Deep Learning Model Efficiently](https://example.com)
+- [AI Trends in 2025](https://example.com)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
